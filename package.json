@@ -1,0 +1,24 @@
+{
+  "name": "menu-semanal",
+  "private": true,
+  "version": "0.1.3",
+  "type": "module",
+  "description": "menu semanal",
+  "author": "Juan Vladimir",
+  "email": "juanvladimir13@gmail.com",
+  "license": "ISC",
+  "keywords": [
+    "programacion",
+    "typescript",
+    "vite"
+  ],
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "typescript": "~6.0.2",
+    "vite": "^8.0.10"
+  }
+}
